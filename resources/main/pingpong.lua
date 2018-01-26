@@ -10,5 +10,5 @@ end)
 
 function helloWorld()
     print ("Print: Hello World!")
-end
+end)
 
